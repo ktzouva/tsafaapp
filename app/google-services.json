@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "63512190754",
+    "firebase_url": "https://tsafaapp-9c785.firebaseio.com",
+    "project_id": "tsafaapp-9c785",
+    "storage_bucket": "tsafaapp-9c785.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63512190754:android:881778c219e16e58",
+        "android_client_info": {
+          "package_name": "com.example.whaaazaaap.tsafaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63512190754-v2tekp5ot11isasteikn09nhea7esl6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whaaazaaap.tsafaapp",
+            "certificate_hash": "8d50ef0780eddb269b36df318d705b6353173b5f"
+          }
+        },
+        {
+          "client_id": "63512190754-b25nq72ck9dpvb6n4lhqtkhkgnqkdvnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKA9HPVMlP7tusakZwKweASnkoaFF1H-Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63512190754-b25nq72ck9dpvb6n4lhqtkhkgnqkdvnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
